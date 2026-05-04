@@ -1,8 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "manar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MAHICODER011.github.io/PORTFOLIO",
+  "homepage": "https://manoak786-coder.github.io/manar",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
