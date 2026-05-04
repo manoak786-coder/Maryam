@@ -1,8 +1,8 @@
 {
-  "name": "manar",
+  "name": "solid-octo-fortnight",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://manoak786-coder.github.io/manar",
+  "homepage": "https://manoak786-coder.github.io/solid-octo-fortnight",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -r https://github.com/manoak786-coder/solid-octo-fortnight.git",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
