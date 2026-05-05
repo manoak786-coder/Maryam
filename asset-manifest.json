@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/solid-octo-fortnight/static/css/main.e6c13ad2.css",
-    "main.js": "/solid-octo-fortnight/static/js/main.0edf7605.js",
+    "main.js": "/solid-octo-fortnight/static/js/main.0ab36b3b.js",
     "static/js/453.b373cace.chunk.js": "/solid-octo-fortnight/static/js/453.b373cace.chunk.js",
-    "static/media/photo2.png": "/solid-octo-fortnight/static/media/photo2.0c69ce3719d94788169b.png",
     "static/media/photo1.jpg": "/solid-octo-fortnight/static/media/photo1.407851e16dc859189bd7.jpg",
     "static/media/3.svg": "/solid-octo-fortnight/static/media/3.9dc7a4aca101a818fc68042a21d242c0.svg",
     "static/media/2.svg": "/solid-octo-fortnight/static/media/2.926f40feb8ff7d50fe3192b513c9e72f.svg",
@@ -11,11 +10,11 @@
     "static/media/4.svg": "/solid-octo-fortnight/static/media/4.36017405398e8db5d026d9dda18c7318.svg",
     "index.html": "/solid-octo-fortnight/index.html",
     "main.e6c13ad2.css.map": "/solid-octo-fortnight/static/css/main.e6c13ad2.css.map",
-    "main.0edf7605.js.map": "/solid-octo-fortnight/static/js/main.0edf7605.js.map",
+    "main.0ab36b3b.js.map": "/solid-octo-fortnight/static/js/main.0ab36b3b.js.map",
     "453.b373cace.chunk.js.map": "/solid-octo-fortnight/static/js/453.b373cace.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0edf7605.js"
+    "static/js/main.0ab36b3b.js"
   ]
 }
